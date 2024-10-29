@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Publish Posts Without Signup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-10 21:36-0300\n"
+"PO-Revision-Date: 2012-02-10 21:38-0300\n"
+"Last-Translator: Anderson <andersonmaki@gmail.com>\n"
+"Language-Team: Anderson Makiyama <andersonmaki@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\wp-content\\plugins\\anderson-makiyama-publish-posts-without-signup\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: templates\n"
+
+#: index.php:43
+msgid "Settings"
+msgstr "Configurações"
+
+#: index.php:83
+msgid "Options saved"
+msgstr "As Opções foram Salvas"
+
+#: post-form.php:26
+msgid "Post Title and Post Text cannot be empty"
+msgstr "O Título e o Texto do Post devem ser preenchidos"
+
+#: post-form.php:28
+msgid "You have exceeded the maximum number of post creation per day limit."
+msgstr "Você excedeu o número máximo do limite de criação de posts por dia."
+
+#: post-form.php:28
+msgid "Come back tomorrow!"
+msgstr "Volte amanhã!"
+
+#: post-form.php:35
+msgid "Your Post has been Published!"
+msgstr "O Post foi publicado"
+
+#: post-form.php:35
+msgid "Your Post has been submited for Moderation!"
+msgstr "O Post foi enviado para moderação"
+
+#: post-form.php:87
+msgid "Post Title: (*)"
+msgstr "Título do Post: (*)"
+
+#: post-form.php:95
+msgid "Post Text"
+msgstr "Texto do Post"
+
+#: post-form.php:104
+msgid "separated with comma"
+msgstr "Separados por vírgula"
+
+#: post-form.php:112
+msgid "Post it"
+msgstr "Publicar"
+
+#: templates/options.php:2
+msgid "options page"
+msgstr "Página de Opções"
+
+#: templates/options.php:5
+msgid "If you want you can add a new user called (anonymous) and enter his ID on the field &quot;Default User&quot;, so, any new posts will be published using that user credentials."
+msgstr "Se desejares, podes inserir um novo usuário chamado (anônimo) e inserir seu ID no campo &quot;Usuário Padrão&quot;, assim sendo, todo novo post será publicado usando as credencias desse usuário."
+
+#: templates/options.php:7
+msgid "Default Informations"
+msgstr "Informações padrão"
+
+#: templates/options.php:11
+msgid "Default Status"
+msgstr "Status padrão"
+
+#: templates/options.php:13
+msgid "Post will be published"
+msgstr "O Post será publicado"
+
+#: templates/options.php:14
+msgid "Post will be sent for moderation"
+msgstr "O Post será enviado para moderação"
+
+#: templates/options.php:15
+msgid "Select the default status for new posts"
+msgstr "Selecione o status padrão para os novos posts"
+
+#: templates/options.php:18
+msgid "Default User"
+msgstr "Usuário padrão"
+
+#: templates/options.php:19
+msgid "Default User Id to create new posts. If not informed, ID 1 is assumed"
+msgstr "ID do usuário padrão para criar novos posts. Caso não informado, ID 1 será utilizado."
+
+#: templates/options.php:22
+msgid "Default Category"
+msgstr "Categoria padrão"
+
+#: templates/options.php:23
+msgid "Default Category ID to create new posts. If not informed, ID 1 is assumed"
+msgstr "ID da categoria  padrão para criar novos posts. Caso não informado, ID 1 será utilizado"
+
+#: templates/options.php:27
+msgid "Limits Informations"
+msgstr "Informações de Limites"
+
+#: templates/options.php:31
+msgid "Max Posts Per IP Per Day"
+msgstr "Máximo de Posts por IP por dia"
+
+#: templates/options.php:33
+msgid "Number of posts can be created by one IP daily. <strong>-1</strong> for no limits. It is interesting to avoid abuses and spams"
+msgstr "Número de posts que podem ser criados por um IP diariamente. <strong>-1</strong> para sem limites. Isso é interessante para evitar abusos e spams."
+
+#: templates/options.php:38
+msgid "Save Changes"
+msgstr "Salvar Alterações"
+
+#: templates/options.php:45
+msgid "Visit Plugin's page:"
+msgstr "Visite a Página do Plugin"
+
+#: templates/options.php:48
+msgid "Visit Autor's blog:"
+msgstr "Visite o Blog do Autor"
+
+#: templates/options.php:48
+msgid "http://blogwordpress.ws"
+msgstr "http://wordpresslivro.com"
+
+#~ msgid "Wait an hour and try again!"
+#~ msgstr "Aguarde uma hora e tente novamente!"
